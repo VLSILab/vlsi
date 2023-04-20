@@ -1,0 +1,15 @@
+module tb();
+reg[4:0] A, B;
+wire[4:0] Out;
+
+fs DUT(Out, A, B);
+initial 
+	begin
+		repeat(5)
+		begin
+			#2 A= $random;
+			#1 $display();
+		end	
+	end
+
+endmodule

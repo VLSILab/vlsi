@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ECENIT\Desktop\20EC8001,20EC8002\parity_checker
+vParityChecker
+I`Y9U1Za6^8`21hUJ5^5k12
+V75AF_900EFOAK=@:<n0:i0
+w1678792540
+8parity.v
+Fparity.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+n@parity@checker
+!s85 0
+vParityChecker_tb
+IVShB[UDJkNf9ioOcSU>z70
+VZLX9D?a@0RbCTHCkm<fQk1
+w1678792585
+8parity_tb.v
+Fparity_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0
+n@parity@checker_tb

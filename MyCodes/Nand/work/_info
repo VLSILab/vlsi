@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\ECENIT\Desktop\Roll-20EC8058_20EC8078
+vand_gate
+IAhF5Ia@D:Gk<RVUJYhR9K3
+V<B4DQmEX72kYg>K6nN37X2
+Z0 dC:\Users\ECENIT\Desktop\Roll-20EC8058_20EC8078\Nand
+w1673950163
+8nand1.v
+Fnand1.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o+acc -O0
+!s85 0
+vtb
+I]b2j;W73QU`Z<n]hQa_RZ1
+VV@Xn<HnSRM[I5c1?BH]3a3
+Z2 dC:\Users\ECENIT\Desktop\Roll-20EC8058_20EC8078\Nand
+w1673950182
+8nand1_tb.v
+Fnand1_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0

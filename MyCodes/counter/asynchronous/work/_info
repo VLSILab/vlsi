@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ECENIT\Desktop\Roll-20EC8058_20EC8078\counter\asynchronous
+vasync_counter
+I3U6PFZ^hi4X:FJT;RT6G]2
+V5eX`ahh0d_VbjV76OR@k@0
+w1680001807
+8async_counter.v
+Fasync_counter.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+!s85 0
+vdff
+IVd@AT8Q::B9IG>gjZW5GL1
+VQWZGH05_k3dGe00d1Afe52
+w1680000424
+8dff.v
+Fdff.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0
+vtb
+I2[mH]DR^_14Qi=N3AO>0m3
+VV@Xn<HnSRM[I5c1?BH]3a3
+w1680001988
+8async_counter_tb.v
+Fasync_counter_tb.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0

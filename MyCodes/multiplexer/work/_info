@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ECENIT\Desktop\Roll-20EC8058_20EC8078\multiplexer
+vmultiplexer
+INO;94DKQgki<fPX0iNiF_3
+VZ2?WC_1ZZCV33jQU^igHZ1
+w1676373254
+8multiplexer.v
+Fmultiplexer.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+!s85 0
+vmultiplexer21condn
+IXQJUYOVI;JC^=4L:9dfIe1
+V8i0?kLT?3N`@Ncz40jbiN0
+w1676377832
+8multiplexer21condn.v
+Fmultiplexer21condn.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vmultiplexer41
+II5A9Z=C[5_lJNQe]JFSbz2
+V?V6A_ZX8?67HLmPN_n@cA0
+w1676374346
+8multiplexer41_dataflow.v
+Fmultiplexer41_dataflow.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vmultiplexer41_case_statement
+I=k4eDVZFal[N7A>[8>bFW0
+VN2<Zc;SU@Z=IIOBDZMAOi1
+w1676376864
+Z2 8multiplexer41_case_statement.v
+Z3 Fmultiplexer41_case_statement.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vmultiplexer_dataflow
+I8hSij_g:?OEAMcRz1>]jH1
+V504BN?h2SFFhIalzNSK__0
+w1676374083
+8multiplexer_dataflow.v
+Fmultiplexer_dataflow.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vmux4_1
+IO3mXRVFnV0bA38hC9`WLM1
+VX0zkA1JbJ8hWm=0U6M?A[2
+w1676376515
+R2
+R3
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vtb
+IA^2>nZg@GZj0B^mbIOP];3
+VV@Xn<HnSRM[I5c1?BH]3a3
+w1676377891
+8multiplexer21condn_tb.v
+Fmultiplexer21condn_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0

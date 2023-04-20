@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ECENIT\Desktop\ECS652\Counter
+vasync_counter
+IE0`P9;k]V0IGc4R?n3N@d0
+V5eX`ahh0d_VbjV76OR@k@0
+w1680002365
+8async_counter.v
+Fasync_counter.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+Z2 o+acc -O0
+!s85 0
+vdff
+IgbeVLRdU<TFIJcRc?Z`jc1
+V28?m_OnOGKXH;QgF;X?dc1
+w1680002472
+8dff.v
+Fdff.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vtb_async_counter
+I9z31SJJPUUj=_:cRfGI[F0
+V>70f?]^]3kD@`jm6n0Dnd1
+w1680002738
+8async_counter_tb.v
+Fasync_counter_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+R2
